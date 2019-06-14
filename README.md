@@ -1,6 +1,6 @@
 ## Compute quantiles over frequency tables
 
-This is useful when you have a rollup of queries and search counts, and want to
+This is useful when you have a rollup of queries and counts, and want to
 compute different quantiles for the data.
 
 There is a sample frequency table `sample_frequency_table.csv` with the correct
