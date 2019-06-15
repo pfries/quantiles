@@ -56,7 +56,6 @@ class Quantile():
 def main():
     import sys
     import argparse
-    import fileinput
 
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers(dest='command',
